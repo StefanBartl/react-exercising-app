@@ -1,12 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from "react";
 
-function App() {
-  return (
-    <div className="App">
-        <h1>React-Exercising-App</h1>
-    </div>
-  );
-}
+const App = () => <h1>Our First Test</h1>;
 
 export default App;
